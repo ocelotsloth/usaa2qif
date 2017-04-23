@@ -1,6 +1,6 @@
 {
   "name": "usaa2qif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse USAA pdf's to qif",
   "main": "index.js",
   "author": "Mark Stenglein <mark@stengle.in>",
