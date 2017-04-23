@@ -1,5 +1,5 @@
 /*
- *  usaa2qif: NodeJS Library to Convert USAA Statements to QIF Files
+ *  usaa2qif: NodeJS Module to Convert USAA Statements to QIF Files
  *  Copyright (C) 2017 Mark Stenglein <mark@stengle.in>
  *
  *  This program is free software: you can redistribute it and/or modify
