@@ -8,6 +8,14 @@ have some work to do to make this convenient, and still requires hard coding
 the PDF names into index.js. I'll probably fix it at some point...feel free to
 file a PR for that though if you find this useful.
 
+## NPM Users!
+
+While you *can* install this with either `yarn add usaa2qif` or
+`npm install usaa2qif`, I recommend going to github.com/ocelotsloth/usaa2qif
+instead. The repository is not currently working to where it has a decent
+command line interface that can be global, and the demo files are not included
+in the `npm publish` to save in file sizes on NPM.
+
 ## Installation
 
 `git clone git@github.com:ocelotsloth/usaa2qif.git`
