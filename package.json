@@ -1,0 +1,13 @@
+{
+  "name": "usaa2qif",
+  "version": "1.0.0",
+  "description": "Parse USAA pdf's to qif",
+  "main": "index.js",
+  "author": "Mark Stenglein <mark@stengle.in>",
+  "license": "GPL-3.0+",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "pdf-to-text": "^0.0.6"
+  },
+  "repository": "https://www.github.com/ocelotsloth/usaa2qif"
+}
